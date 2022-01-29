@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 200 130.36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b">
+   <stop stop-color="#ffe680" offset="0"/>
+   <stop stop-color="#fc0" offset=".51835"/>
+   <stop stop-color="#806600" offset="1"/>
+  </linearGradient>
+  <radialGradient id="c" cx="170" cy="372.36" r="250" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <radialGradient id="a" cx="280" cy="412.36" r="40" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ </defs>
+ <g transform="matrix(.41951 0 0 .41951 1.9695 -111.57)" fill-rule="evenodd">
+  <path d="m190 272.38c-82.843 0-150 67.157-150 150s67.157 150 150 150c53.64 0 100.7-28.161 127.22-70.5l-127.22-79.5 127.22-79.5c-26.514-42.346-73.573-70.5-127.22-70.5z" fill="url(#c)"/>
+  <path d="m310 422.36c0 11.046-8.9543 20-20 20s-20-8.9543-20-20 8.9543-20 20-20 20 8.9543 20 20z" fill="url(#a)"/>
+  <path transform="translate(70)" d="m310 422.36c0 11.046-8.9543 20-20 20s-20-8.9543-20-20 8.9543-20 20-20 20 8.9543 20 20z" fill="url(#a)"/>
+  <path transform="translate(140)" d="m310 422.36c0 11.046-8.9543 20-20 20s-20-8.9543-20-20 8.9543-20 20-20 20 8.9543 20 20z" fill="url(#a)"/>
+  <path transform="translate(-70,-80)" d="m310 422.36c0 11.046-8.9543 20-20 20s-20-8.9543-20-20 8.9543-20 20-20 20 8.9543 20 20z"/>
+ </g>
+</svg>
